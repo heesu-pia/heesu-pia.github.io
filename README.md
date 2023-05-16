@@ -128,6 +128,7 @@ ISFT[^18], 2016, Harbin, China
 [heesu-kim@snuailab.ai]
 [[oneQuery(Youtube.com)]([Youtube.com/@onequery](https://www.youtube.com/@onequery))]
 
+---
 [^0]: Deep Learning / Machine Learning
 [^1]: Pytorch(Main), Keras, Tensorflow
 [^2]: Object detection, Image classification, Human pose estimation
