@@ -1,3 +1,5 @@
+<img src="https://github.com/oneQuery/oneQuery.github.io/assets/24229051/59754b18-5a66-4ec7-b8c2-5f6166af9485" width="141" height="180">
+
 # Heesu Kim
 
 Heesu Kim is currently a DL/ML[^0] engineer and DL framework developer. He was previously a ship autopilot algorithm engineer but transitioned to the DL world to make up his dream.
