@@ -124,7 +124,7 @@ ISFT[^18], 2016, Harbin, China
 ## Contact
 
 [heesu-kim@snuailab.ai]
-[[DeepErGo(Youtube.com)]([Youtube.com/@deepergo](https://www.youtube.com/@deepergo))]
+[[oneQuery(Youtube.com)]([Youtube.com/@onequery](https://www.youtube.com/@onequery))]
 
 [^0]: Deep Learning / Machine Learning
 [^1]: Pytorch(Main), Keras, Tensorflow
