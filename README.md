@@ -6,7 +6,7 @@ Heesu Kim is currently a DL/ML[^0] engineer and DL framework developer. He was p
 
 ## Skills
 
-- Deep learning frameworks: Pytorch, Keras, Tensorflow,
+- Deep learning frameworks: Pytorch(Main), Keras, Tensorflow,
 - Python(Main), Matlab, C++, ROS[^3],
 - Computer vision techniques: Object detection, Human pose estimation,
 - Version control tools: Git, DVC
