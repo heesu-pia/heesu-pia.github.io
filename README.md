@@ -26,6 +26,7 @@ Heesu Kim is an AI engineer with a focus on the text-video multi-modal domain. T
 
 ### [MACS: Multi-modal AI CCTV Solution (2023-)](https://pia.space/#MACS)
 Developed an AI-driven CCTV solution to identify abnormal or dangerous situations through text-video retrieval, enhancing scene understanding via language.
+<img width="844" alt="macs" src="https://github.com/oneQuery/oneQuery.github.io/assets/24229051/2a628205-dbf9-46a0-be7a-b8025684a99c">
 
 ### [Waffle: Adaptive Deep Learning Framework (2023)](https://github.com/snuailab/waffle_hub)
 Created an adaptive training platform for deep learning models, emphasizing flexibility and efficiency. [Waffle Hub on Github](https://github.com/snuailab/waffle_hub) | [Waffle Utils on Github](https://github.com/snuailab/waffle_utils)
