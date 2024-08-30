@@ -10,7 +10,8 @@ Heesu Kim is an AI engineer with a focus on the text-video multi-modal domain. T
 - Version Control: Git
 
 ## Work Experience
-- **AI Engineer, [PIA Space](https://pia.space/), 2023-** | Developing core models for text-video multi-modal AI applications, including an AI-powered CCTV solution.
+- **AI Solution Team Leader, [PIA Space](https://pia.space/), 2024-Present** | Overseeing a team responsible for the development and management of AI-driven projects, with a focus on AI-powered CCTV solutions. Leading strategic initiatives to enhance product performance and innovation in AI applications.
+- **AI Engineer, [PIA Space](https://pia.space/), 2023-2024** | Developing core models for text-video multi-modal AI applications, including an AI-powered CCTV solution.
 - **AI Researcher, [SNUAILAB](http://www.snuailab.com/), 2022-2023** | Engaged in R&D of deep learning models and frameworks, contributing to the AI R&D Center’s deep-learning development team.
 - **Research associate, Inha University, 2022** | Developed collision avoidance algorithms for ship autopilots, implemented on the Robot Operating System (ROS).
 - **Research assistant, University of Virginia, 2021-2022** | Designed an evaluation algorithm for surgical performance using reinforcement learning (RL) with a surgery simulator.
