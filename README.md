@@ -10,7 +10,7 @@ Heesu Kim is an AI engineer with a focus on the text-video multi-modal domain. T
 - Version Control: Git
 
 ## Work Experience
-- **AI Solution Team Leader, [PIA Space](https://pia.space/), 2024-Present** | Overseeing a team responsible for the development and management of AI-driven projects, with a focus on AI-powered CCTV solutions. Leading strategic initiatives to enhance product performance and innovation in AI applications.
+- **AI Solution Team Leader/Tech Lead, [PIA Space](https://pia.space/), 2024-Present** | Overseeing a team responsible for the development and management of AI-driven projects, with a focus on AI-powered CCTV solutions. Leading strategic initiatives to enhance product performance and innovation in AI applications.
 - **AI Engineer, [PIA Space](https://pia.space/), 2023-2024** | Developing core models for text-video multi-modal AI applications, including an AI-powered CCTV solution.
 - **AI Researcher, [SNUAILAB](http://www.snuailab.com/), 2022-2023** | Engaged in R&D of deep learning models and frameworks, contributing to the AI R&D Center’s deep-learning development team.
 - **Research associate, Inha University, 2022** | Developed collision avoidance algorithms for ship autopilots, implemented on the Robot Operating System (ROS).
@@ -24,6 +24,28 @@ Heesu Kim is an AI engineer with a focus on the text-video multi-modal domain. T
 - Bachelor of Engineering, Naval Architecture and Ocean Engineering, Inha University, Korea
 
 ## Projects
+
+### 데이터바우처 과제
+
+### 서울시 테스트베드 자유공모
+
+### 하나투어
+
+### 광진구 실증사
+
+### KTT-쿠팡
+
+### Kabam
+
+### 대구시설관리공단
+
+### 인천트라이아웃(인천항만공사)
+
+### Ad-lib 호텔
+
+### 인천국제공항공사
+
+### LG U+
 
 ### [MACS: Multi-modal AI CCTV Solution (2023-)](https://pia.space/#MACS)
 Developed an AI-driven CCTV solution to identify abnormal or dangerous situations through text-video retrieval, enhancing scene understanding via language.
@@ -60,6 +82,28 @@ Developed a local path planning algorithm for ship autopilots, focusing on colli
 ### Path Optimization for USVs Under Environmental Loads (2017)
 Optimized USV routes for fuel efficiency under environmental constraints using a genetic algorithm (GA). [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0029801817304122) | [GitHub Repository](https://github.com/oneQuery/shipPathOptimization) | [Project Videos](https://www.youtube.com/watch?v=k9u-QVia5hc)
 ![image](https://user-images.githubusercontent.com/24229051/222423441-264ae7bb-6689-4d44-9cff-a2e7a2910f3d.png)
+
+## 진행 전
+### sVLM
+### 강원TP
+### 산학연 콜라보
+### 대구교통공사
+### VLM 관제
+
+## 기타 서브프로젝트
+### 공군본부 AI 교육
+
+
+
+## 인증
+### KISA
+
+## 특허
+### 1
+### 2
+### 3
+
+## 전시회?
 
 ## Publications
 - [**Kim, H.**, Kim, S.H., Jeon, M., Kim, J., Song, S. and Paik, K.J., "A study on path optimization method of an unmanned surface vehicle under environmental loads using genetic algorithm", Ocean Engineering, 2017](https://doi.org/10.1016/j.oceaneng.2017.07.040)
