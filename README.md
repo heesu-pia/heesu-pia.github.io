@@ -1,52 +1,52 @@
 <img src="https://github.com/oneQuery/oneQuery.github.io/assets/24229051/59754b18-5a66-4ec7-b8c2-5f6166af9485" width="141" height="180">
 
 # Heesu Kim
-Heesu Kim is an AI engineer with a focus on the text-video multi-modal domain. Transitioning from engineering autonomous maritime navigation systems to pioneering in AI, Heesu is dedicated to advancing multi-modal AI technologies.
+Heesu Kim is an AI Solution Architect and Technical Product Leader specializing in **multi-modal AI and real-world AI applications**. With a background in **autonomous maritime navigation** and **AI-powered video analytics**, he currently leads AI-driven **CCTV anomaly detection** solutions and multi-modal retrieval systems. His expertise spans **deep learning model development, AI system architecture, and business strategy**.
 
 ## Skills
-- Deep Learning Frameworks: PyTorch
-- Programming Languages: Python
-- AI Techniques: Text-Video Retrieval, Object Detection, Human Pose Estimation
-- Version Control: Git
+- **Deep Learning & AI**: Multi-modal AI (Text-Video Retrieval), Object Detection, Human Pose Estimation, Vision-Language Models (VLM)
+- **Programming & Development**: Python, PyTorch, Docker, Deepstream
+- **AI Infrastructure & Deployment**: Cloud-based AI solutions (GCP), AI-driven product scaling, Model optimization
+- **Project & Product Management**: AI solution development lifecycle, strategic AI business planning
+- **Version Control & Documentation**: Git, Sphinx-based automated doc generation
 
 ## Work Experience
-- **AI Solution Team Leader/Tech Lead, [PIA Space](https://pia.space/), 2024-Present** | Overseeing a team responsible for the development and management of AI-driven projects, with a focus on AI-powered CCTV solutions. Leading strategic initiatives to enhance product performance and innovation in AI applications.
-- **AI Engineer, [PIA Space](https://pia.space/), 2023-2024** | Developing core models for text-video multi-modal AI applications, including an AI-powered CCTV solution.
-- **AI Researcher, [SNUAILAB](http://www.snuailab.com/), 2022-2023** | Engaged in R&D of deep learning models and frameworks, contributing to the AI R&D Center’s deep-learning development team.
-- **Research associate, Inha University, 2022** | Developed collision avoidance algorithms for ship autopilots, implemented on the Robot Operating System (ROS).
-- **Research assistant, University of Virginia, 2021-2022** | Designed an evaluation algorithm for surgical performance using reinforcement learning (RL) with a surgery simulator.
-- **Research assistant, University of Iowa, 2019-2021** | Supported the development of a Driver Monitoring System (DMS) for seatbelt misuse detection and a Human Pose Estimation (HPE) module for ergonomics risk assessment.
-- **Internship, KRISO, 2017-2018** | Assisted in managing and maintaining ship autopilot systems, integrating multiple AI and automation technologies.
+- **AI Solution Team Leader / Tech Lead, [PIA Space](https://pia.space/) (2024-Present)**  
+  - Leading the AI Solution Team in developing and deploying **AI-powered CCTV solutions**.  
+  - Architecting **multi-modal AI retrieval systems** to enhance scene understanding and real-time event detection.  
+  - Overseeing **AI product strategy**, from R&D to real-world deployment.  
+  - Managing **AI model deployment pipelines, cloud infrastructure, and optimization strategies** for scalability.
+
+- **AI Engineer, [PIA Space](https://pia.space/) (2023-2024)**  
+  - Developed **core AI models** for text-video retrieval and vision-based event detection.  
+  - Led the integration of **deep learning models into real-time video analysis platforms**.  
+
+- **AI Researcher, [SNUAILAB](http://www.snuailab.com/) (2022-2023)** 
+  - Researched **adaptive deep learning frameworks**, contributing to the development of [Waffle: Adaptive Deep Learning Framework](https://github.com/snuailab/waffle_hub).  
+  - Focused on **scalable AI training pipelines** and **optimization techniques for deep learning models**.
+
+- **Research Associate, Inha University (2022)**  
+  - Developed **collision avoidance algorithms** for ship autopilot systems on the Robot Operating System (ROS).  
+  - Conducted research on **path planning and reinforcement learning-based maritime navigation**
+
+- **Research Assistant, University of Virginia (2021-2022)**  
+  - Designed a **reinforcement learning (RL) framework** for evaluating surgical performance using a simulator.
+
+- **Research Assistant, University of Iowa (2019-2021)**  
+  - Developed a **Driver Monitoring System (DMS)** focusing on seatbelt misuse detection using CNNs.  
+  - Built a **Human Pose Estimation (HPE) module** for ergonomic risk assessment.
+ 
+- **Internship, KRISO (2017-2018)**  
+  - Worked on **ship autopilot system integration**, contributing to **autonomous navigation algorithms**.
 
 ## Education
 - Master of Engineering, Naval Architecture and Ocean Engineering, Inha University, Korea, 2019, _Thesis title: [Local path planning for autopilot of ship with quaternion ship domain(Korean)](https://inha.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991009103061005086&context=L&vid=82KST_INH:INHA&lang=ko&search_scope=MyInst_and_CI&adaptor=Local%20Search%20Engine&tab=Everything&query=any,contains,%EA%B9%80%ED%9D%AC%EC%88%98&offset=0)_
 - Master of Philosophy, Naval Architecture & Ocean and Marine Engieering, University of Strathclyde, United Kingdom, 2018, _Thesis title: [Stereo vision-based object detection algorithm for USV using faster R-CNN](https://stax.strath.ac.uk/concern/theses/4b29b6075)_
 - Bachelor of Engineering, Naval Architecture and Ocean Engineering, Inha University, Korea
 
-## Projects
+<!-- 여기부터 -->
 
-### 데이터바우처 과제
-
-### 서울시 테스트베드 자유공모
-
-### 하나투어
-
-### 광진구 실증사
-
-### KTT-쿠팡
-
-### Kabam
-
-### 대구시설관리공단
-
-### 인천트라이아웃(인천항만공사)
-
-### Ad-lib 호텔
-
-### 인천국제공항공사
-
-### LG U+
-
+## AI Projects & Deployments
 ### [MACS: Multi-modal AI CCTV Solution (2023-)](https://pia.space/#MACS)
 Developed an AI-driven CCTV solution to identify abnormal or dangerous situations through text-video retrieval, enhancing scene understanding via language.
 <img width="844" alt="macs" src="https://github.com/oneQuery/oneQuery.github.io/assets/24229051/2a628205-dbf9-46a0-be7a-b8025684a99c">
@@ -83,6 +83,30 @@ Developed a local path planning algorithm for ship autopilots, focusing on colli
 Optimized USV routes for fuel efficiency under environmental constraints using a genetic algorithm (GA). [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0029801817304122) | [GitHub Repository](https://github.com/oneQuery/shipPathOptimization) | [Project Videos](https://www.youtube.com/watch?v=k9u-QVia5hc)
 ![image](https://user-images.githubusercontent.com/24229051/222423441-264ae7bb-6689-4d44-9cff-a2e7a2910f3d.png)
 
+## AI Deployment & Business Collaborations
+
+### 데이터바우처 과제
+
+### 서울시 테스트베드 자유공모
+
+### 하나투어
+
+### 광진구 실증사
+
+### KTT-쿠팡
+
+### Kabam
+
+### 대구시설관리공단
+
+### 인천트라이아웃(인천항만공사)
+
+### Ad-lib 호텔
+
+### 인천국제공항공사
+
+### LG U+
+
 ## 진행 전
 ### sVLM
 ### 강원TP
@@ -104,6 +128,8 @@ Optimized USV routes for fuel efficiency under environmental constraints using a
 ### 3
 
 ## 전시회?
+
+## 해외 데모?
 
 ## Publications
 - [**Kim, H.**, Kim, S.H., Jeon, M., Kim, J., Song, S. and Paik, K.J., "A study on path optimization method of an unmanned surface vehicle under environmental loads using genetic algorithm", Ocean Engineering, 2017](https://doi.org/10.1016/j.oceaneng.2017.07.040)
