@@ -91,52 +91,32 @@ Heesu Kim is an AI Solution Architect and Technical Product Leader specializing 
 ![image](https://user-images.githubusercontent.com/24229051/222423441-264ae7bb-6689-4d44-9cff-a2e7a2910f3d.png)
 
 ## AI Deployment & Business Collaborations
+### **AI Deployment Projects**
+- **Data Voucher Program**
+- **Seoul City Testbed Open Innovation**
+- **Hana Tour AI System**
+- **Gwangjin-gu Smart City AI**
+- **KTT-Coupang AI Monitoring**
+- **Kabam AI Deployment**
+- **Daegu Facility Management Corporation AI**
+- **Incheon Tryout (Incheon Port Authority)**
+- **Ad-lib Hotel AI Solutions**
+- **Incheon International Airport AI**
+- **LG U+ AI Solutions**
 
-### 데이터바우처 과제
+### **Upcoming AI Projects**
+- **sVLM Vision-Language Modeling**
+- **Gangwon TP AI Initiatives**
+- **Industry-Academic AI Collaboration**
+- **Daegu Transportation Corporation AI**
+- **VLM-based AI Control Systems**
 
-### 서울시 테스트베드 자유공모
+### **Training & Education Initiatives**
+- **Korean Air Force AI Training Program**
 
-### 하나투어
-
-### 광진구 실증사
-
-### KTT-쿠팡
-
-### Kabam
-
-### 대구시설관리공단
-
-### 인천트라이아웃(인천항만공사)
-
-### Ad-lib 호텔
-
-### 인천국제공항공사
-
-### LG U+
-
-## 진행 전
-### sVLM
-### 강원TP
-### 산학연 콜라보
-### 대구교통공사
-### VLM 관제
-
-## 기타 서브프로젝트
-### 공군본부 AI 교육
-
-
-
-## 인증
-### KISA
-
-## 특허
-### 1
-### 2
-### 3
-
-## 전시회?
-
-## 해외 데모?
+## Patents & Certifications
+- **KISA AI Security Certification**
+- **Pending AI System Patents (1, 2, 3)**
 
 ## Publications
 - [**Kim, H.**, Kim, S.H., Jeon, M., Kim, J., Song, S. and Paik, K.J., "A study on path optimization method of an unmanned surface vehicle under environmental loads using genetic algorithm", Ocean Engineering, 2017](https://doi.org/10.1016/j.oceaneng.2017.07.040)
