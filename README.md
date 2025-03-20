@@ -47,40 +47,47 @@ Heesu Kim is an AI Solution Architect and Technical Product Leader specializing 
 <!-- 여기부터 -->
 
 ## AI Projects & Deployments
-### [MACS: Multi-modal AI CCTV Solution (2023-)](https://pia.space/#MACS)
-Developed an AI-driven CCTV solution to identify abnormal or dangerous situations through text-video retrieval, enhancing scene understanding via language.
+### **[MACS: Multi-modal AI CCTV Solution (2023-Present)](https://pia.space/#MACS)**
+- Developed an **AI-powered CCTV system** leveraging **text-video retrieval and vision-language models**.  
+- Implemented **scene-based anomaly detection** using multi-modal AI techniques.  
+- Optimized real-time **edge AI inference pipelines** for large-scale deployments.
 <img width="844" alt="macs" src="https://github.com/oneQuery/oneQuery.github.io/assets/24229051/2a628205-dbf9-46a0-be7a-b8025684a99c">
 
-### [Waffle: Adaptive Deep Learning Framework (2023)](https://github.com/snuailab/waffle_hub)
-Created an adaptive training platform for deep learning models, emphasizing flexibility and efficiency. [Waffle Hub on Github](https://github.com/snuailab/waffle_hub) | [Waffle Utils on Github](https://github.com/snuailab/waffle_utils)
+### **[Waffle: Adaptive Deep Learning Framework (2023)](https://github.com/snuailab/waffle_hub)**
+[Waffle Hub on Github](https://github.com/snuailab/waffle_hub) | [Waffle Utils on Github](https://github.com/snuailab/waffle_utils)
+- Contributed to an **adaptive deep learning training platform** for scalable AI model development.  
+- Integrated **efficient model training and optimization pipelines**.
 ![image](https://user-images.githubusercontent.com/24229051/222444602-aa0432f1-01ee-4823-8988-8d0a2eec5c35.png)
 
-### Evaluating Surgical Performance Using Reinforcement Learning (2022)
-Designed an AI system to objectively assess surgical performance, aiming to replace subjective expert evaluations.
+### **Evaluating Surgical Performance Using Reinforcement Learning (2022)**
+- Built an AI-driven **surgical performance evaluation system** using **reinforcement learning (RL)**.
 ![image](https://user-images.githubusercontent.com/24229051/222420639-21400d16-3849-401c-a3a2-ad5102a85433.png)
 
-### System for Monitoring Vehicle Occupants with CNN (2021)
-Developed a deep learning model to classify seatbelt usage in vehicles, enhancing safety through vision processing.
+### **Driver Monitoring System (DMS) with CNNs (2021)**
+- Designed an AI model for **seatbelt misuse detection** in vehicle occupants. 
 ![image](https://user-images.githubusercontent.com/24229051/222421553-15de3f7e-86f0-4782-859d-f26735d2889a.png)
 
-### Ergonomics Assessment for Worker Safety (2020)
-Established an automated workflow to evaluate workers' injury risks using pose estimation, aiming to improve workplace safety.
+### **Human Pose Estimation for Ergonomics Risk Assessment (2020)**
+- Developed an **automated risk assessment system** using **pose estimation** techniques.
 ![image](https://user-images.githubusercontent.com/24229051/222422483-20eb79bb-48b2-4916-8466-90337838147a.png)
 
-### Stereo Vision-based Object Detection for USVs (2018)
-Implemented a Faster R-CNN algorithm for detecting ships and estimating distances, enhancing USV navigation. [Paper](https://stax.strath.ac.uk/concern/theses/4b29b6075) | [Project Videos](https://www.youtube.com/watch?v=c9i-GPGj5B8)
+### **Stereo Vision-based Object Detection for USVs (2018)**
+[Paper](https://stax.strath.ac.uk/concern/theses/4b29b6075) | [Project Videos](https://www.youtube.com/watch?v=c9i-GPGj5B8)
+- Implemented a **Faster R-CNN model** for detecting maritime objects in **autonomous ship navigation**.
 ![image](https://user-images.githubusercontent.com/24229051/222427212-809779ac-c8a0-417f-9983-7cdd5c7cf0d7.png)
 
-### Collision Avoidance Implementation on ROS (2022)
-Implemented a collision avoidance algorithm for ships on the Robot Operating System (ROS), enhancing maritime safety.
+### **Collision Avoidance Implementation on ROS (2022)**
+- Developed a **real-time collision avoidance algorithm** for ship autopilot systems.
 ![image](https://user-images.githubusercontent.com/24229051/222433978-b576b7e2-681c-4186-8b27-47623e270942.png)
 
-### Local Path Planning for Ship Autopilot (2019)
-Developed a local path planning algorithm for ship autopilots, focusing on collision avoidance. [Paper (Korea)](https://inha.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991009103061005086&context=L&vid=82KST_INH:INHA&lang=ko&search_scope=MyInst_and_CI&adaptor=Local%20Search%20Engine&tab=Everything&query=any,contains,%EA%B9%80%ED%9D%AC%EC%88%98&offset=0) | [GitHub Repository](https://github.com/oneQuery/ship-local-path-planning) | [Project Videos](https://www.youtube.com/watch?v=jqptI6XHtwA)
+### **Local Path Planning for Ship Autopilot (2019)**
+[Paper (Korea)](https://inha.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991009103061005086&context=L&vid=82KST_INH:INHA&lang=ko&search_scope=MyInst_and_CI&adaptor=Local%20Search%20Engine&tab=Everything&query=any,contains,%EA%B9%80%ED%9D%AC%EC%88%98&offset=0) | [GitHub Repository](https://github.com/oneQuery/ship-local-path-planning) | [Project Videos](https://www.youtube.com/watch?v=jqptI6XHtwA)
+- Developed a local path planning algorithm for ship autopilots, focusing on collision avoidance. 
 ![image](https://user-images.githubusercontent.com/24229051/222430364-5c24c062-ba54-49fe-82dd-8f9e209c6a58.png)
 
 ### Path Optimization for USVs Under Environmental Loads (2017)
-Optimized USV routes for fuel efficiency under environmental constraints using a genetic algorithm (GA). [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0029801817304122) | [GitHub Repository](https://github.com/oneQuery/shipPathOptimization) | [Project Videos](https://www.youtube.com/watch?v=k9u-QVia5hc)
+[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0029801817304122) | [GitHub Repository](https://github.com/oneQuery/shipPathOptimization) | [Project Videos](https://www.youtube.com/watch?v=k9u-QVia5hc)
+- Optimized USV routes for fuel efficiency under environmental constraints using a genetic algorithm (GA). 
 ![image](https://user-images.githubusercontent.com/24229051/222423441-264ae7bb-6689-4d44-9cff-a2e7a2910f3d.png)
 
 ## AI Deployment & Business Collaborations
