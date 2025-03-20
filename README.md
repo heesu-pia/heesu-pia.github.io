@@ -44,8 +44,6 @@ Heesu Kim is an AI Solution Architect and Technical Product Leader specializing 
 - Master of Philosophy, Naval Architecture & Ocean and Marine Engieering, University of Strathclyde, United Kingdom, 2018, _Thesis title: [Stereo vision-based object detection algorithm for USV using faster R-CNN](https://stax.strath.ac.uk/concern/theses/4b29b6075)_
 - Bachelor of Engineering, Naval Architecture and Ocean Engineering, Inha University, Korea
 
-<!-- 여기부터 -->
-
 ## AI Projects & Deployments
 ### **[MACS: Multi-modal AI CCTV Solution (2023-Present)](https://pia.space/#MACS)**
 - Developed an **AI-powered CCTV system** leveraging **text-video retrieval and vision-language models**.  
@@ -85,17 +83,27 @@ Heesu Kim is an AI Solution Architect and Technical Product Leader specializing 
 - Developed a local path planning algorithm for ship autopilots, focusing on collision avoidance. 
 ![image](https://user-images.githubusercontent.com/24229051/222430364-5c24c062-ba54-49fe-82dd-8f9e209c6a58.png)
 
-### Path Optimization for USVs Under Environmental Loads (2017)
+### **Path Optimization for USVs Under Environmental Loads (2017)**
 [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0029801817304122) | [GitHub Repository](https://github.com/oneQuery/shipPathOptimization) | [Project Videos](https://www.youtube.com/watch?v=k9u-QVia5hc)
 - Optimized USV routes for fuel efficiency under environmental constraints using a genetic algorithm (GA). 
 ![image](https://user-images.githubusercontent.com/24229051/222423441-264ae7bb-6689-4d44-9cff-a2e7a2910f3d.png)
 
 ## AI Deployment & Business Collaborations
 ### **AI Deployment Projects**
-- **Data Voucher Program**
-- **Seoul City Testbed Open Innovation**
-- **Hana Tour AI System**
+- **Data Voucher Program(2023)**
+  - AI-powered Video Search & CCTV Analysis Solutions: Developed multi-modal AI models for text-based video search and context-aware anomaly detection in CCTV footage.
+  - Model Performance Improvement: Built custom TOUR & SAFETY datasets, achieving Recall@1 improvement of 8.2%p and Recall@10 improvement of 16.8%p.
+  - Global Recognition & Expansion: Showcased AI solutions at international exhibitions (SWITCH, SCEWC) and received industry recognition for innovation in video AI technologies.
+<!-- - **Seoul City Testbed Open Innovation** -->
+- **Hana Tour AI System(2023)**
+  - AI-powered Video Search for Travel Content: Processed 4TB of travel videos and developed a text-to-video retrieval system for efficient short-form content editing.
+  - Performance Optimization: Evaluated and fine-tuned CLIP, BLIP, and CLIP4Clip models, achieving Precision@5 of 74.67% and MRR of 69.83% for video search accuracy.
+  - Implementation & Business Impact: Provided search optimization guidelines, enhanced video encoding workflows, and contributed to the scalability of AI-driven travel video solutions.
 - **Gwangjin-gu Smart City AI**
+  - AI-powered Smart Surveillance System: Developed a multi-modal AI system for real-time anomaly detection in CCTV footage, enhancing public safety in Gwangjin-gu.
+  - AI Model Optimization & Deployment: Implemented vision-language models (VLMs) to detect emergencies (e.g., flooding, fire, violence, traffic incidents), reducing false positives from existing systems.
+  - Scalability & Cost Efficiency: Optimized AI deployment to double the CCTV processing capacity per server while cutting hardware replacement costs by ~80%, enabling nationwide smart city expansion.
+<!-- 여기부터 할 차례 -->
 - **KTT-Coupang AI Monitoring**
 - **Kabam AI Deployment**
 - **Daegu Facility Management Corporation AI**
