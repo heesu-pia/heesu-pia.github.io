@@ -99,7 +99,7 @@ Heesu Kim is an AI Solution Architect and Technical Product Leader specializing 
   - AI-powered Video Search for Travel Content: Processed 4TB of travel videos and developed a text-to-video retrieval system for efficient short-form content editing.
   - Performance Optimization: Evaluated and fine-tuned CLIP, BLIP, and CLIP4Clip models, achieving Precision@5 of 74.67% and MRR of 69.83% for video search accuracy.
   - Implementation & Business Impact: Provided search optimization guidelines, enhanced video encoding workflows, and contributed to the scalability of AI-driven travel video solutions.
-- **Gwangjin-gu Smart City AI**
+- **Gwangjin-gu Smart City AI(2024)**
   - AI-powered Smart Surveillance System: Developed a multi-modal AI system for real-time anomaly detection in CCTV footage, enhancing public safety in Gwangjin-gu.
   - AI Model Optimization & Deployment: Implemented vision-language models (VLMs) to detect emergencies (e.g., flooding, fire, violence, traffic incidents), reducing false positives from existing systems.
   - Scalability & Cost Efficiency: Optimized AI deployment to double the CCTV processing capacity per server while cutting hardware replacement costs by ~80%, enabling nationwide smart city expansion.
