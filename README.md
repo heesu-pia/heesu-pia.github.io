@@ -1,65 +1,164 @@
 <img src="https://github.com/oneQuery/oneQuery.github.io/assets/24229051/59754b18-5a66-4ec7-b8c2-5f6166af9485" width="141" height="180">
 
 # Heesu Kim
-Heesu Kim is an AI engineer with a focus on the text-video multi-modal domain. Transitioning from engineering autonomous maritime navigation systems to pioneering in AI, Heesu is dedicated to advancing multi-modal AI technologies.
+Heesu Kim is an AI Solution Architect and Technical Product Leader specializing in **multi-modal AI and real-world AI applications**. With a background in **autonomous maritime navigation** and **AI-powered video analytics**, he currently leads AI-driven **CCTV anomaly detection** solutions and multi-modal retrieval systems. His expertise spans **deep learning model development, AI system architecture, and business strategy**.
 
 ## Skills
-- Deep Learning Frameworks: PyTorch
-- Programming Languages: Python
-- AI Techniques: Text-Video Retrieval, Object Detection, Human Pose Estimation
-- Version Control: Git
+- **Deep Learning & AI**: Multi-modal AI (Text-Video Retrieval), Object Detection, Human Pose Estimation, Vision-Language Models (VLM)
+- **Programming & Development**: Python, PyTorch, Docker, Deepstream
+- **AI Infrastructure & Deployment**: Cloud-based AI solutions (GCP), AI-driven product scaling, Model optimization
+- **Project & Product Management**: AI solution development lifecycle, strategic AI business planning
+- **Version Control & Documentation**: Git, Sphinx-based automated doc generation
 
 ## Work Experience
-- **AI Solution Team Leader, [PIA Space](https://pia.space/), 2024-Present** | Overseeing a team responsible for the development and management of AI-driven projects, with a focus on AI-powered CCTV solutions. Leading strategic initiatives to enhance product performance and innovation in AI applications.
-- **AI Engineer, [PIA Space](https://pia.space/), 2023-2024** | Developing core models for text-video multi-modal AI applications, including an AI-powered CCTV solution.
-- **AI Researcher, [SNUAILAB](http://www.snuailab.com/), 2022-2023** | Engaged in R&D of deep learning models and frameworks, contributing to the AI R&D Center’s deep-learning development team.
-- **Research associate, Inha University, 2022** | Developed collision avoidance algorithms for ship autopilots, implemented on the Robot Operating System (ROS).
-- **Research assistant, University of Virginia, 2021-2022** | Designed an evaluation algorithm for surgical performance using reinforcement learning (RL) with a surgery simulator.
-- **Research assistant, University of Iowa, 2019-2021** | Supported the development of a Driver Monitoring System (DMS) for seatbelt misuse detection and a Human Pose Estimation (HPE) module for ergonomics risk assessment.
-- **Internship, KRISO, 2017-2018** | Assisted in managing and maintaining ship autopilot systems, integrating multiple AI and automation technologies.
+- **AI Solution Team Leader / Tech Lead, [PIA Space](https://pia.space/) (2024-Present)**  
+  - Leading the AI Solution Team in developing and deploying **AI-powered CCTV solutions**.  
+  - Architecting **multi-modal AI retrieval systems** to enhance scene understanding and real-time event detection.  
+  - Overseeing **AI product strategy**, from R&D to real-world deployment.  
+  - Managing **AI model deployment pipelines, cloud infrastructure, and optimization strategies** for scalability.
+
+- **AI Engineer, [PIA Space](https://pia.space/) (2023-2024)**  
+  - Developed **core AI models** for text-video retrieval and vision-based event detection.  
+  - Led the integration of **deep learning models into real-time video analysis platforms**.  
+
+- **AI Researcher, [SNUAILAB](http://www.snuailab.com/) (2022-2023)** 
+  - Researched **adaptive deep learning frameworks**, contributing to the development of [Waffle: Adaptive Deep Learning Framework](https://github.com/snuailab/waffle_hub).  
+  - Focused on **scalable AI training pipelines** and **optimization techniques for deep learning models**.
+
+- **Research Associate, Inha University (2022)**  
+  - Developed **collision avoidance algorithms** for ship autopilot systems on the Robot Operating System (ROS).  
+  - Conducted research on **path planning and reinforcement learning-based maritime navigation**
+
+- **Research Assistant, University of Virginia (2021-2022)**  
+  - Designed a **reinforcement learning (RL) framework** for evaluating surgical performance using a simulator.
+
+- **Research Assistant, University of Iowa (2019-2021)**  
+  - Developed a **Driver Monitoring System (DMS)** focusing on seatbelt misuse detection using CNNs.  
+  - Built a **Human Pose Estimation (HPE) module** for ergonomic risk assessment.
+ 
+- **Internship, KRISO (2017-2018)**  
+  - Worked on **ship autopilot system integration**, contributing to **autonomous navigation algorithms**.
 
 ## Education
 - Master of Engineering, Naval Architecture and Ocean Engineering, Inha University, Korea, 2019, _Thesis title: [Local path planning for autopilot of ship with quaternion ship domain(Korean)](https://inha.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991009103061005086&context=L&vid=82KST_INH:INHA&lang=ko&search_scope=MyInst_and_CI&adaptor=Local%20Search%20Engine&tab=Everything&query=any,contains,%EA%B9%80%ED%9D%AC%EC%88%98&offset=0)_
 - Master of Philosophy, Naval Architecture & Ocean and Marine Engieering, University of Strathclyde, United Kingdom, 2018, _Thesis title: [Stereo vision-based object detection algorithm for USV using faster R-CNN](https://stax.strath.ac.uk/concern/theses/4b29b6075)_
 - Bachelor of Engineering, Naval Architecture and Ocean Engineering, Inha University, Korea
 
-## Projects
+## AI Projects & Deployments
 
-### [MACS: Multi-modal AI CCTV Solution (2023-)](https://pia.space/#MACS)
-Developed an AI-driven CCTV solution to identify abnormal or dangerous situations through text-video retrieval, enhancing scene understanding via language.
+### **[MACS: Multi-modal AI CCTV Solution (2023-Present)](https://pia.space/#MACS)**
+- Developed an **AI-powered CCTV system** leveraging **text-video retrieval and vision-language models**.  
+- Implemented **scene-based anomaly detection** using multi-modal AI techniques.  
+- Optimized real-time **edge AI inference pipelines** for large-scale deployments.
 <img width="844" alt="macs" src="https://github.com/oneQuery/oneQuery.github.io/assets/24229051/2a628205-dbf9-46a0-be7a-b8025684a99c">
 
-### [Waffle: Adaptive Deep Learning Framework (2023)](https://github.com/snuailab/waffle_hub)
-Created an adaptive training platform for deep learning models, emphasizing flexibility and efficiency. [Waffle Hub on Github](https://github.com/snuailab/waffle_hub) | [Waffle Utils on Github](https://github.com/snuailab/waffle_utils)
+### **[Waffle: Adaptive Deep Learning Framework (2023)](https://github.com/snuailab/waffle_hub)**
+[Waffle Hub on Github](https://github.com/snuailab/waffle_hub) | [Waffle Utils on Github](https://github.com/snuailab/waffle_utils)
+- Contributed to an **adaptive deep learning training platform** for scalable AI model development.  
+- Integrated **efficient model training and optimization pipelines**.
 ![image](https://user-images.githubusercontent.com/24229051/222444602-aa0432f1-01ee-4823-8988-8d0a2eec5c35.png)
 
-### Evaluating Surgical Performance Using Reinforcement Learning (2022)
-Designed an AI system to objectively assess surgical performance, aiming to replace subjective expert evaluations.
+### **Evaluating Surgical Performance Using Reinforcement Learning (2022)**
+- Built an AI-driven **surgical performance evaluation system** using **reinforcement learning (RL)**.
 ![image](https://user-images.githubusercontent.com/24229051/222420639-21400d16-3849-401c-a3a2-ad5102a85433.png)
 
-### System for Monitoring Vehicle Occupants with CNN (2021)
-Developed a deep learning model to classify seatbelt usage in vehicles, enhancing safety through vision processing.
+### **Driver Monitoring System (DMS) with CNNs (2021)**
+- Designed an AI model for **seatbelt misuse detection** in vehicle occupants. 
 ![image](https://user-images.githubusercontent.com/24229051/222421553-15de3f7e-86f0-4782-859d-f26735d2889a.png)
 
-### Ergonomics Assessment for Worker Safety (2020)
-Established an automated workflow to evaluate workers' injury risks using pose estimation, aiming to improve workplace safety.
+### **Human Pose Estimation for Ergonomics Risk Assessment (2020)**
+- Developed an **automated risk assessment system** using **pose estimation** techniques.
 ![image](https://user-images.githubusercontent.com/24229051/222422483-20eb79bb-48b2-4916-8466-90337838147a.png)
 
-### Stereo Vision-based Object Detection for USVs (2018)
-Implemented a Faster R-CNN algorithm for detecting ships and estimating distances, enhancing USV navigation. [Paper](https://stax.strath.ac.uk/concern/theses/4b29b6075) | [Project Videos](https://www.youtube.com/watch?v=c9i-GPGj5B8)
+### **Stereo Vision-based Object Detection for USVs (2018)**
+[Paper](https://stax.strath.ac.uk/concern/theses/4b29b6075) | [Project Videos](https://www.youtube.com/watch?v=c9i-GPGj5B8)
+- Implemented a **Faster R-CNN model** for detecting maritime objects in **autonomous ship navigation**.
 ![image](https://user-images.githubusercontent.com/24229051/222427212-809779ac-c8a0-417f-9983-7cdd5c7cf0d7.png)
 
-### Collision Avoidance Implementation on ROS (2022)
-Implemented a collision avoidance algorithm for ships on the Robot Operating System (ROS), enhancing maritime safety.
+## Other Research & Academic Projects
+
+### **Collision Avoidance Implementation on ROS (2022)**
+- Developed a **real-time collision avoidance algorithm** for ship autopilot systems.
 ![image](https://user-images.githubusercontent.com/24229051/222433978-b576b7e2-681c-4186-8b27-47623e270942.png)
 
-### Local Path Planning for Ship Autopilot (2019)
-Developed a local path planning algorithm for ship autopilots, focusing on collision avoidance. [Paper (Korea)](https://inha.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991009103061005086&context=L&vid=82KST_INH:INHA&lang=ko&search_scope=MyInst_and_CI&adaptor=Local%20Search%20Engine&tab=Everything&query=any,contains,%EA%B9%80%ED%9D%AC%EC%88%98&offset=0) | [GitHub Repository](https://github.com/oneQuery/ship-local-path-planning) | [Project Videos](https://www.youtube.com/watch?v=jqptI6XHtwA)
+### **Local Path Planning for Ship Autopilot (2019)**
+[Paper (Korea)](https://inha.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991009103061005086&context=L&vid=82KST_INH:INHA&lang=ko&search_scope=MyInst_and_CI&adaptor=Local%20Search%20Engine&tab=Everything&query=any,contains,%EA%B9%80%ED%9D%AC%EC%88%98&offset=0) | [GitHub Repository](https://github.com/oneQuery/ship-local-path-planning) | [Project Videos](https://www.youtube.com/watch?v=jqptI6XHtwA)
+- Developed a local path planning algorithm for ship autopilots, focusing on collision avoidance. 
 ![image](https://user-images.githubusercontent.com/24229051/222430364-5c24c062-ba54-49fe-82dd-8f9e209c6a58.png)
 
-### Path Optimization for USVs Under Environmental Loads (2017)
-Optimized USV routes for fuel efficiency under environmental constraints using a genetic algorithm (GA). [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0029801817304122) | [GitHub Repository](https://github.com/oneQuery/shipPathOptimization) | [Project Videos](https://www.youtube.com/watch?v=k9u-QVia5hc)
+### **Path Optimization for USVs Under Environmental Loads (2017)**
+[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0029801817304122) | [GitHub Repository](https://github.com/oneQuery/shipPathOptimization) | [Project Videos](https://www.youtube.com/watch?v=k9u-QVia5hc)
+- Optimized USV routes for fuel efficiency under environmental constraints using a genetic algorithm (GA). 
 ![image](https://user-images.githubusercontent.com/24229051/222423441-264ae7bb-6689-4d44-9cff-a2e7a2910f3d.png)
+
+## AI Deployment & Business Collaborations
+
+### **Data Voucher Program(2023)**
+- AI-powered Video Search & CCTV Analysis Solutions: Developed multi-modal AI models for text-based video search and context-aware anomaly detection in CCTV footage.
+- Model Performance Improvement: Built custom TOUR & SAFETY datasets, achieving Recall@1 improvement of 8.2%p and Recall@10 improvement of 16.8%p.
+- Global Recognition & Expansion: Showcased AI solutions at international exhibitions (SWITCH, SCEWC) and received industry recognition for innovation in video AI technologies.
+
+<!-- - **Seoul City Testbed Open Innovation** -->
+
+### **Hana Tour AI System(2023)**
+- AI-powered Video Search for Travel Content: Processed 4TB of travel videos and developed a text-to-video retrieval system for efficient short-form content editing.
+- Performance Optimization: Evaluated and fine-tuned CLIP, BLIP, and CLIP4Clip models, achieving Precision@5 of 74.67% and MRR of 69.83% for video search accuracy.
+- Implementation & Business Impact: Provided search optimization guidelines, enhanced video encoding workflows, and contributed to the scalability of AI-driven travel video solutions.
+ 
+### **Gwangjin-gu Smart City AI(2024)**
+- Emergency AI Surveillance Deployment: Developed and deployed a multi-modal AI CCTV solution (MACS) capable of detecting critical events such as violence, fire, and flooding in real-time across 30 live CCTV channels.
+- High-Performance Event Detection: Achieved F1-Scores above 95% in five categories including crowd density, nighttime violence, and tunnel incidents through a fine-tuned vision-language model (VLM).
+- Standard-Compliant AI Infrastructure: Successfully integrated with existing VMS, implemented cost-saving embedded processing, and supported national CCTV data and deployment standards, improving scalability and interoperability.
+
+### **KTT-Coupang AI Monitoring(2024)**
+- PoC Deployment in Logistics Center: Installed and tested MACS AI surveillance solution across 16 CCTV channels at Coupang Dongtan Logistics Center to detect theft, safety incidents, and operational anomalies.
+- Multi-modal AI Training & Evaluation: Collected and labeled over 1,000 event clips (e.g., box opening, clothes changing), developed fine-tuned CLIP4Clip models, and evaluated with adaptive thresholds and Top-K retrieval metrics.
+- Toolchain & Workflow Automation: Built internal tools like ann-vid-tool and gpt-captioning to accelerate caption labeling, and implemented Top-Rank algorithm for scalable event detection in real environments.
+
+<!-- - **Kabam AI Deployment** -->
+
+### **Daegu Facility Management Corporation AI(2024)**
+- Tunnel Emergency Detection Deployment: Developed and deployed a multi-modal AI CCTV solution (MACS) in Daegu tunnels to detect emergency situations like loitering, intrusion, and falling, operating across 50 real-time CCTV channels.
+- AI Performance Validation: Achieved F1-score of 99.87% and mAP of 88.83% in KISA-certified testing, with real-time processing at 17.89 fps, surpassing national benchmarks.
+- Cost-Efficient and Scalable System: Demonstrated 80% cost savings over traditional smart CCTV systems; optimized for embedded hardware, and expanded global reach with 6 patent filings, 3 overseas demos, and 4 signed LOIs.
+
+### **Incheon Tryout (Incheon Port Authority)(2024)**
+- Port Security AI Pilot Deployment: Deployed MACS AI solution to Incheon International Passenger Terminal’s integrated control center, targeting complex threat detection (e.g., loitering, intrusion, object throwing, photo-taking).
+- Exceptional AI Model Accuracy: Achieved 99.74% F1-score for core scenarios like loitering and falling; verified by KTL software testing and exceeded performance goals for event complexity and processing efficiency.
+- High-Efficiency, Low-Cost Architecture: Delivered 200% improvement in cost-efficiency (50 channels per GPU server), integrated with existing VMS via RTSP relay servers, and fine-tuned VLM-based prompt engineering with custom-built datasets.
+
+### **LG U+ AI Solutions(2024)**
+- Fire Safety & Behavior Anomaly Detection: Conducted PoC in a factory setting with over 600 CCTV channels, validating multi-modal AI for detecting smoke, flame, and falls with dramatically reduced false alarms compared to legacy CNN-based systems.
+- Prompt-Based Event Recognition: Verified the capability to define and detect custom industrial safety events using text prompts (e.g., “The man is falling,” “Water is gushing out”) including complex behaviors like high-place access and robot operation.
+- Enterprise-Level AI Integration: Successfully integrated AI servers into LG U+’s industrial surveillance infrastructure, achieving F1-score of 96 vs. 38 (legacy), and demonstrated real-time monitoring stability under multi-channel RTSP relay and 10Gbps backbone.
+
+## **Training & Education Initiatives**
+
+### **Korean Air Force AI Training Program**
+  - Delivered a 3-day intensive training program covering core topics in AI, deep learning, and multi-modal systems tailored for the Republic of Korea Air Force (ROKAF).
+  - Designed and led hands-on sessions on computer vision, NLP, and vision-language models, including CLIP-based multi-modal AI implementation and text classification using deep learning frameworks.
+  - Developed curriculum material covering Transformer architecture, embedding techniques, and fusion strategies (early, joint, late) for multi-modal learning to enhance military situational awareness capabilities.
+
+## Certifications
+
+### **KISA AI Security Certification(2024)**
+  - Product Certified: MACS-K (V1.0.0~V2.2.0), developed by PIA Space Inc., officially certified by the Korea Internet & Security Agency (KISA) for intelligent CCTV performance.
+  - Certified Event Categories:
+    - Loitering: F1-score 96.0
+    - Intrusion: F1-score 95.3
+    - Falling: F1-score 98.0
+    - Arson (fire/smoke): F1-score 94.0
+    - Fighting: F1-score 90.0
+    - Abandonment (e.g., trash, baggage): F1-score 99.0
+  - Certification Period: Valid through 2027, verifying system stability across RGB/IR camera input, multiple time zones, and weather conditions under national test datasets
+
+## Patent
+### **System and Method for Monitoring at Least One Occupant Within a Vehicle Using a Plurality of Convolutional Neural Networks(2021)**
+[Google Patent](https://patents.google.com/patent/US20210086715A1/en)
+  - Inventor: Heesu Kim, et al.
+  - Application No.: US17/025,440 | Publication No.: US20210086715A1
+  - Filed: September 18, 2020 | Published: March 25, 2021
+  - Developed during my tenure at the University of Iowa, this invention leverages multiple deep learning modules—pose estimation, part affinity fields, and semantic segmentation—to assess seatbelt usage and posture inside vehicles, ensuring safety compliance through automated occupant monitoring.
 
 ## Publications
 - [**Kim, H.**, Kim, S.H., Jeon, M., Kim, J., Song, S. and Paik, K.J., "A study on path optimization method of an unmanned surface vehicle under environmental loads using genetic algorithm", Ocean Engineering, 2017](https://doi.org/10.1016/j.oceaneng.2017.07.040)
@@ -80,6 +179,3 @@ ISFT, 2016, Harbin, China
 
 ## Contact
 hs.kim@pia.space
-
-
-
