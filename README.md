@@ -2,7 +2,7 @@
 
 # Heesu Kim
 _AI Researcher | Deep Learning Architect | Vision-Language Fusion Specialist_  
-📍 Seoul, South Korea | ✉️ hs.kim@pia.space | [GitHub](https://github.com/heesu-pia) | [Scholar](https://scholar.google.com/citations?hl=en&user=foCKZlQAAAAJ)
+📍 Seoul, South Korea | ✉️ heesu-kim@outlook.com | [GitHub](https://github.com/heesu-pia) | [Scholar](https://scholar.google.com/citations?hl=en&user=foCKZlQAAAAJ)
 
 ## Summary
 AI Researcher with 7+ years of experience in deep learning and real-world AI applications across smart transportation, intelligent surveillance, and human-centered AI systems. Proven track record in both academic research and large-scale enterprise deployment, with expertise in multi-modal fusion, scene understanding, and real-time edge optimization. Strong communicator with cross-functional leadership and full-cycle system design experience.
