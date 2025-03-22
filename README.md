@@ -100,14 +100,20 @@ Heesu Kim is an AI Solution Architect and Technical Product Leader specializing 
   - Performance Optimization: Evaluated and fine-tuned CLIP, BLIP, and CLIP4Clip models, achieving Precision@5 of 74.67% and MRR of 69.83% for video search accuracy.
   - Implementation & Business Impact: Provided search optimization guidelines, enhanced video encoding workflows, and contributed to the scalability of AI-driven travel video solutions.
 - **Gwangjin-gu Smart City AI(2024)**
-  - AI-powered Smart Surveillance System: Developed a multi-modal AI system for real-time anomaly detection in CCTV footage, enhancing public safety in Gwangjin-gu.
-  - AI Model Optimization & Deployment: Implemented vision-language models (VLMs) to detect emergencies (e.g., flooding, fire, violence, traffic incidents), reducing false positives from existing systems.
-  - Scalability & Cost Efficiency: Optimized AI deployment to double the CCTV processing capacity per server while cutting hardware replacement costs by ~80%, enabling nationwide smart city expansion.
-<!-- 여기부터 할 차례 -->
-- **KTT-Coupang AI Monitoring**
-- **Kabam AI Deployment**
+  - Emergency AI Surveillance Deployment: Developed and deployed a multi-modal AI CCTV solution (MACS) capable of detecting critical events such as violence, fire, and flooding in real-time across 30 live CCTV channels.
+  - High-Performance Event Detection: Achieved F1-Scores above 95% in five categories including crowd density, nighttime violence, and tunnel incidents through a fine-tuned vision-language model (VLM).
+  - Standard-Compliant AI Infrastructure: Successfully integrated with existing VMS, implemented cost-saving embedded processing, and supported national CCTV data and deployment standards, improving scalability and interoperability.
+- **KTT-Coupang AI Monitoring(2024)**
+  - PoC Deployment in Logistics Center: Installed and tested MACS AI surveillance solution across 16 CCTV channels at Coupang Dongtan Logistics Center to detect theft, safety incidents, and operational anomalies.
+  - Multi-modal AI Training & Evaluation: Collected and labeled over 1,000 event clips (e.g., box opening, clothes changing), developed fine-tuned CLIP4Clip models, and evaluated with adaptive thresholds and Top-K retrieval metrics.
+  - Toolchain & Workflow Automation: Built internal tools like ann-vid-tool and gpt-captioning to accelerate caption labeling, and implemented Top-Rank algorithm for scalable event detection in real environments.
+<!-- - **Kabam AI Deployment** -->
 - **Daegu Facility Management Corporation AI**
+  - Tunnel Emergency Detection Deployment: Developed and deployed a multi-modal AI CCTV solution (MACS) in Daegu tunnels to detect emergency situations like loitering, intrusion, and falling, operating across 50 real-time CCTV channels.
+  - AI Performance Validation: Achieved F1-score of 99.87% and mAP of 88.83% in KISA-certified testing, with real-time processing at 17.89 fps, surpassing national benchmarks.
+  - Cost-Efficient and Scalable System: Demonstrated 80% cost savings over traditional smart CCTV systems; optimized for embedded hardware, and expanded global reach with 6 patent filings, 3 overseas demos, and 4 signed LOIs.
 - **Incheon Tryout (Incheon Port Authority)**
+<!-- 여기부터 할 차례 -->
 - **Ad-lib Hotel AI Solutions**
 - **Incheon International Airport AI**
 - **LG U+ AI Solutions**
@@ -145,6 +151,3 @@ ISFT, 2016, Harbin, China
 
 ## Contact
 hs.kim@pia.space
-
-
-
