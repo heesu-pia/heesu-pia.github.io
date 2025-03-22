@@ -45,6 +45,7 @@ Heesu Kim is an AI Solution Architect and Technical Product Leader specializing 
 - Bachelor of Engineering, Naval Architecture and Ocean Engineering, Inha University, Korea
 
 ## AI Projects & Deployments
+
 ### **[MACS: Multi-modal AI CCTV Solution (2023-Present)](https://pia.space/#MACS)**
 - Developed an **AI-powered CCTV system** leveraging **text-video retrieval and vision-language models**.  
 - Implemented **scene-based anomaly detection** using multi-modal AI techniques.  
@@ -73,6 +74,8 @@ Heesu Kim is an AI Solution Architect and Technical Product Leader specializing 
 [Paper](https://stax.strath.ac.uk/concern/theses/4b29b6075) | [Project Videos](https://www.youtube.com/watch?v=c9i-GPGj5B8)
 - Implemented a **Faster R-CNN model** for detecting maritime objects in **autonomous ship navigation**.
 ![image](https://user-images.githubusercontent.com/24229051/222427212-809779ac-c8a0-417f-9983-7cdd5c7cf0d7.png)
+
+## Other Research & Academic Projects
 
 ### **Collision Avoidance Implementation on ROS (2022)**
 - Developed a **real-time collision avoidance algorithm** for ship autopilot systems.
