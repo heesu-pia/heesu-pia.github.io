@@ -1,11 +1,11 @@
 <img src="https://github.com/oneQuery/oneQuery.github.io/assets/24229051/59754b18-5a66-4ec7-b8c2-5f6166af9485" width="141" height="180">
 
 # Heesu Kim
-_AI Researcher | Deep Learning Architect | Vision-Language Fusion Specialist_
+_AI Researcher | Deep Learning Architect | Vision-Language Fusion Specialist_  
 📍 Seoul, South Korea | ✉️ hs.kim@pia.space | [GitHub](https://github.com/heesu-pia) | [Scholar](https://scholar.google.com/citations?hl=en&user=foCKZlQAAAAJ)
 
 ## Summary
-AI Researcher with 7+ years of experience in deep learning and real-world AI applications across smart mobility, intelligent surveillance, and human-machine systems. Proven record in both academic R&D and enterprise deployment, with a focus on multi-modal fusion, scene understanding, and real-time edge optimization. Strong communicator with cross-functional leadership and system-level design capability.
+AI Researcher with 7+ years of experience in deep learning and real-world AI applications across smart transportation, intelligent surveillance, and human-centered AI systems. Proven track record in both academic research and large-scale enterprise deployment, with expertise in multi-modal fusion, scene understanding, and real-time edge optimization. Strong communicator with cross-functional leadership and full-cycle system design experience.
 <!-- AI researcher with 7+ years of cross-domain experience in multi-modal learning, deep neural network optimization, and real-world AI deployments. Proven track record in both academic research and large-scale industry implementation across smart cities, surveillance, and autonomous navigation. -->
 <!-- Heesu Kim is an AI Solution Architect and Technical Product Leader specializing in **multi-modal AI and real-world AI applications**. With a background in **autonomous maritime navigation** and **AI-powered video analytics**, he currently leads AI-driven **CCTV anomaly detection** solutions and multi-modal retrieval systems. His expertise spans **deep learning model development, AI system architecture, and business strategy**. -->
 
@@ -30,9 +30,9 @@ AI Researcher with 7+ years of experience in deep learning and real-world AI app
 ## Work Experience
 ### **AI Solution Team Leader / Tech Lead, [PIA Space](https://pia.space/)**
 _2024–Present_
-- Lead architect of MACS: real-time AI CCTV solution with multi-modal event detection.
+- Lead architect of "[MACS](https://pia.space/#MACS)": real-time AI CCTV solution with multi-modal event detection.
 - Designed scalable pipelines for vision-language fusion (CLIP4Clip, BLIP, custom VLMs).
-- Deployed solutions in smart cities, industrial sites, and public transportation.
+- Deployed solutions in smart cities, industrial sites, and urban infastructure systems.
 <!-- - Leading the AI Solution Team in developing and deploying **AI-powered CCTV solutions**.  
 - Architecting **multi-modal AI retrieval systems** to enhance scene understanding and real-time event detection.  
 - Overseeing **AI product strategy**, from R&D to real-world deployment.  
@@ -47,7 +47,7 @@ _2023-2024_
 
 ### **AI Researcher, [SNUAILAB](http://www.snuailab.com/)** 
 _2022-2023_
-- Co-developed "Waffle": a modular deep learning framework for scalable training/inference.
+- Co-developed "[Waffle](https://github.com/snuailab/waffle_hub)": a modular deep learning framework for scalable training/inference.
 - Focused on reproducibility, adaptive scheduling, and model compression.
 <!-- - Researched **adaptive deep learning frameworks**, contributing to the development of [Waffle: Adaptive Deep Learning Framework](https://github.com/snuailab/waffle_hub).  
 - Focused on **scalable AI training pipelines** and **optimization techniques for deep learning models**. -->
@@ -77,11 +77,35 @@ _2017-2018_
 
 ## **Industry AI Projects**
 
-### National R&D Projects (B2G)
-- Gwangjin-gu Smart City: Multi-camera abnormality detection (violence/fire/flooding).
-- Incheon Port Authority: Deployed MACS system in terminal, 99.74% F1-score on loitering/falling.
-- Daegu Facility Corp.: Tunnel AI surveillance with embedded optimization (17.89 fps).
-- Data Voucher Program: Text-video AI retriever with 16.8%p Recall@10 gain on domain data.
+### Government R&D Projects (B2G)
+- 2024 Municipal CCTV Video Analysis Technology Demonstration Project
+  - Project Title: "Multi-modal AI-based Disaster Safety Anomaly Detection CCTV Solution for Emergency Response"​
+  - Duration: 2024​
+  - Role: Lead AI Architect​
+  - Responsibilities: Developed and deployed multi-camera anomaly detection systems capable of identifying events such as violence, fire, and flooding.​
+  - Achievements: Enhanced public safety measures through real-time monitoring and rapid response capabilities.​
+
+- Incheon Startup Park TRYOUT Smart-X Open Innovation Program (Incheon Port Authority)
+  - Project Title: "Multi-modal AI Video Analysis Solution to Improve CCTV Monitoring Accuracy for Port Facility Security Management"​
+  - Duration: 2024​
+  - Role: AI Researcher​
+  - Responsibilities: Deployed the MACS system in terminal environments to detect anomalies such as loitering and falling.​
+  - Achievements: Achieved a 99.74% F1-score in detecting specified events, significantly reducing false positives and enhancing security operations.​
+
+- 2024 Digital Innovation Company's Global Growth Voucher (R) Support Project
+  - Project Title: "Real-time Emergency Detection Multi-modal AI CCTV Solution Inside and Outside Tunnels"​
+  - Duration: 2024​
+  - Role: Lead AI Architect​
+  - Responsibilities: Developed AI surveillance systems optimized for embedded hardware to monitor tunnel environments for emergencies.​
+  - Achievements: Achieved real-time processing speeds of 17.89 fps, ensuring timely detection and response to tunnel emergencies.​
+
+- 2023 Data Voucher Support Project
+  - Project Title: "Development of AI-based Real-time CCTV Video Analysis Solution"​
+  - Duration: 2023​
+  - Role: AI Researcher​
+  - Responsibilities: Developed a text-video AI retrieval system to enhance the accuracy of domain-specific data analysis.​
+  - Achievements: Achieved a 16.8 percentage point improvement in Recall@10 on domain-specific datasets, enhancing the system's retrieval performance.
+
 <!-- **Gwangjin-gu Smart City AI**: Real-time violence, fire, and flooding detection across 30 CCTV streams.
 - **Incheon Port Authority Tryout**: Port safety AI deployment achieving 99.74% F1-score in complex event detection.
 - **Daegu Facility Management Corporation AI**:  
@@ -90,10 +114,39 @@ _2017-2018_
 - **Data Voucher Program**: Developed multi-modal AI for text-video retrieval with significant accuracy improvements. -->
 
 ### Enterprise AI Deployments (B2B)
+- KTT-Coupang AI Surveillance PoC
+  - Client: Coupang, in partnership with Korea Transportation Technology (KTT)
+  - Duration: 2024-Present
+  - Role: AI Researcher​
+  - Responsibilities: Developed and fine-tuned a video anomaly detection system for logistics centers using text-video retrieval and Top-K similarity scoring. Targeted events included box opening, clothing change, and unauthorized access.
+  - Achievements: Successfully deployed MACS to 16 real-time CCTV channels at Coupang Dongtan Logistics Center. Enabled detection of operational anomalies with improved interpretability, supporting future scalability for national logistics monitoring.
+
+- Ad-lib Hotel AI Safety Monitoring
+  - Client: Ad-lib Hotel (B2B site deployment)
+  - Duration: 2024-Present
+  - Role: AI Researcher​
+  - Responsibilities: Installed and tested multi-modal AI solution tailored for hospitality environments, targeting guest - safety and behavioral anomaly detection.
+  - Achievements: Improved response to unattended luggage and loitering scenarios. Demonstrated lightweight deployment feasibility for mid-sized facilities with minimal latency.
+  
+- LG U+ Industrial AI Safety System
+  - Client: LG U+
+  - Duration: 2024
+  - Role: AI Researcher​
+  - Responsibilities: Designed a vision-language model pipeline to detect abnormal behaviors in industrial environments such as fire, smoke, falling, and working at heights. Leveraged prompt-based event definitions and real-time RTSP integration.
+  - Achievements: Verified F1-score improvement (96 vs. 38 baseline) across over 600 CCTV streams. Demonstrated seamless integration into LG U+ surveillance infrastructure with stability under high network throughput (10 Gbps backbone).
+  
+- HanaTour Smart Media AI Platform
+  - Client: HanaTour
+  - Duration: 2023
+  - Role: AI Researcher​
+  - Responsibilities: Built a short-form video editing support system by applying CLIP4Clip-based retrieval on 4TB of tour videos. Customized the ranking algorithm for travel-specific descriptors.
+  - Achievements: Achieved Precision@5 of 74.67% and MRR of 69.83%. System significantly accelerated content curation, contributing to HanaTour’s digital transformation in travel media services.
+
+<!--
 - KTT-Coupang: AI PoC for theft/clothing/box anomaly at logistics center, Top-K similarity model.
 - LG U+: Deployed factory anomaly detector (smoke/fall/high-altitude) over 600 channels.
 - HanaTour: Built tour-video search engine using CLIP4Clip for short-form generation.
-- Ad-lib Hotel: Safety detection deployment in hospitality environments.
+- Ad-lib Hotel: Safety detection deployment in hospitality environments. -->
 <!-- - **KTT-Coupang AI Monitoring**: Theft and safety incident detection in logistics center with scalable Top-K retrieval.
 - **LG U+ AI Solutions**: Industrial anomaly detection (e.g., flame, high-altitude access) integrated into factory CCTV.
 - **HanaTour AI System**: AI-based travel video retrieval and editing using CLIP4Clip.
@@ -254,7 +307,7 @@ ISFT, 2016, Harbin, China
 
 # Education
 - Master of Engineering, Naval Architecture and Ocean Engineering, Inha University, Korea, 2019, _Thesis title: [Local path planning for autopilot of ship with quaternion ship domain(Korean)](https://inha.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991009103061005086&context=L&vid=82KST_INH:INHA&lang=ko&search_scope=MyInst_and_CI&adaptor=Local%20Search%20Engine&tab=Everything&query=any,contains,%EA%B9%80%ED%9D%AC%EC%88%98&offset=0)_
-- Master of Philosophy, Naval Architecture & Ocean and Marine Engieering, University of Strathclyde, United Kingdom, 2018, _Thesis title: [Stereo vision-based object detection algorithm for USV using faster R-CNN](https://stax.strath.ac.uk/concern/theses/4b29b6075)_
+- Master of Philosophy, Naval Architecture & Ocean and Marine Engineering, University of Strathclyde, United Kingdom, 2018, _Thesis title: [Stereo vision-based object detection algorithm for USV using faster R-CNN](https://stax.strath.ac.uk/concern/theses/4b29b6075)_
 - Bachelor of Engineering, Naval Architecture and Ocean Engineering, Inha University, Korea
 
 ## Contact
