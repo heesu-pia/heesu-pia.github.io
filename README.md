@@ -89,48 +89,73 @@ Heesu Kim is an AI Solution Architect and Technical Product Leader specializing 
 ![image](https://user-images.githubusercontent.com/24229051/222423441-264ae7bb-6689-4d44-9cff-a2e7a2910f3d.png)
 
 ## AI Deployment & Business Collaborations
-### **AI Deployment Projects**
-- **Data Voucher Program(2023)**
-  - AI-powered Video Search & CCTV Analysis Solutions: Developed multi-modal AI models for text-based video search and context-aware anomaly detection in CCTV footage.
-  - Model Performance Improvement: Built custom TOUR & SAFETY datasets, achieving Recall@1 improvement of 8.2%p and Recall@10 improvement of 16.8%p.
-  - Global Recognition & Expansion: Showcased AI solutions at international exhibitions (SWITCH, SCEWC) and received industry recognition for innovation in video AI technologies.
+
+### **Data Voucher Program(2023)**
+- AI-powered Video Search & CCTV Analysis Solutions: Developed multi-modal AI models for text-based video search and context-aware anomaly detection in CCTV footage.
+- Model Performance Improvement: Built custom TOUR & SAFETY datasets, achieving Recall@1 improvement of 8.2%p and Recall@10 improvement of 16.8%p.
+- Global Recognition & Expansion: Showcased AI solutions at international exhibitions (SWITCH, SCEWC) and received industry recognition for innovation in video AI technologies.
+
 <!-- - **Seoul City Testbed Open Innovation** -->
-- **Hana Tour AI System(2023)**
-  - AI-powered Video Search for Travel Content: Processed 4TB of travel videos and developed a text-to-video retrieval system for efficient short-form content editing.
-  - Performance Optimization: Evaluated and fine-tuned CLIP, BLIP, and CLIP4Clip models, achieving Precision@5 of 74.67% and MRR of 69.83% for video search accuracy.
-  - Implementation & Business Impact: Provided search optimization guidelines, enhanced video encoding workflows, and contributed to the scalability of AI-driven travel video solutions.
-- **Gwangjin-gu Smart City AI(2024)**
-  - Emergency AI Surveillance Deployment: Developed and deployed a multi-modal AI CCTV solution (MACS) capable of detecting critical events such as violence, fire, and flooding in real-time across 30 live CCTV channels.
-  - High-Performance Event Detection: Achieved F1-Scores above 95% in five categories including crowd density, nighttime violence, and tunnel incidents through a fine-tuned vision-language model (VLM).
-  - Standard-Compliant AI Infrastructure: Successfully integrated with existing VMS, implemented cost-saving embedded processing, and supported national CCTV data and deployment standards, improving scalability and interoperability.
-- **KTT-Coupang AI Monitoring(2024)**
-  - PoC Deployment in Logistics Center: Installed and tested MACS AI surveillance solution across 16 CCTV channels at Coupang Dongtan Logistics Center to detect theft, safety incidents, and operational anomalies.
-  - Multi-modal AI Training & Evaluation: Collected and labeled over 1,000 event clips (e.g., box opening, clothes changing), developed fine-tuned CLIP4Clip models, and evaluated with adaptive thresholds and Top-K retrieval metrics.
-  - Toolchain & Workflow Automation: Built internal tools like ann-vid-tool and gpt-captioning to accelerate caption labeling, and implemented Top-Rank algorithm for scalable event detection in real environments.
+
+### **Hana Tour AI System(2023)**
+- AI-powered Video Search for Travel Content: Processed 4TB of travel videos and developed a text-to-video retrieval system for efficient short-form content editing.
+- Performance Optimization: Evaluated and fine-tuned CLIP, BLIP, and CLIP4Clip models, achieving Precision@5 of 74.67% and MRR of 69.83% for video search accuracy.
+- Implementation & Business Impact: Provided search optimization guidelines, enhanced video encoding workflows, and contributed to the scalability of AI-driven travel video solutions.
+ 
+### **Gwangjin-gu Smart City AI(2024)**
+- Emergency AI Surveillance Deployment: Developed and deployed a multi-modal AI CCTV solution (MACS) capable of detecting critical events such as violence, fire, and flooding in real-time across 30 live CCTV channels.
+- High-Performance Event Detection: Achieved F1-Scores above 95% in five categories including crowd density, nighttime violence, and tunnel incidents through a fine-tuned vision-language model (VLM).
+- Standard-Compliant AI Infrastructure: Successfully integrated with existing VMS, implemented cost-saving embedded processing, and supported national CCTV data and deployment standards, improving scalability and interoperability.
+
+### **KTT-Coupang AI Monitoring(2024)**
+- PoC Deployment in Logistics Center: Installed and tested MACS AI surveillance solution across 16 CCTV channels at Coupang Dongtan Logistics Center to detect theft, safety incidents, and operational anomalies.
+- Multi-modal AI Training & Evaluation: Collected and labeled over 1,000 event clips (e.g., box opening, clothes changing), developed fine-tuned CLIP4Clip models, and evaluated with adaptive thresholds and Top-K retrieval metrics.
+- Toolchain & Workflow Automation: Built internal tools like ann-vid-tool and gpt-captioning to accelerate caption labeling, and implemented Top-Rank algorithm for scalable event detection in real environments.
+
 <!-- - **Kabam AI Deployment** -->
-- **Daegu Facility Management Corporation AI**
-  - Tunnel Emergency Detection Deployment: Developed and deployed a multi-modal AI CCTV solution (MACS) in Daegu tunnels to detect emergency situations like loitering, intrusion, and falling, operating across 50 real-time CCTV channels.
-  - AI Performance Validation: Achieved F1-score of 99.87% and mAP of 88.83% in KISA-certified testing, with real-time processing at 17.89 fps, surpassing national benchmarks.
-  - Cost-Efficient and Scalable System: Demonstrated 80% cost savings over traditional smart CCTV systems; optimized for embedded hardware, and expanded global reach with 6 patent filings, 3 overseas demos, and 4 signed LOIs.
-- **Incheon Tryout (Incheon Port Authority)**
-<!-- 여기부터 할 차례 -->
-- **Ad-lib Hotel AI Solutions**
-- **Incheon International Airport AI**
-- **LG U+ AI Solutions**
 
-### **Upcoming AI Projects**
-- **sVLM Vision-Language Modeling**
-- **Gangwon TP AI Initiatives**
-- **Industry-Academic AI Collaboration**
-- **Daegu Transportation Corporation AI**
-- **VLM-based AI Control Systems**
+### **Daegu Facility Management Corporation AI(2024)**
+- Tunnel Emergency Detection Deployment: Developed and deployed a multi-modal AI CCTV solution (MACS) in Daegu tunnels to detect emergency situations like loitering, intrusion, and falling, operating across 50 real-time CCTV channels.
+- AI Performance Validation: Achieved F1-score of 99.87% and mAP of 88.83% in KISA-certified testing, with real-time processing at 17.89 fps, surpassing national benchmarks.
+- Cost-Efficient and Scalable System: Demonstrated 80% cost savings over traditional smart CCTV systems; optimized for embedded hardware, and expanded global reach with 6 patent filings, 3 overseas demos, and 4 signed LOIs.
 
-### **Training & Education Initiatives**
-- **Korean Air Force AI Training Program**
+### **Incheon Tryout (Incheon Port Authority)(2024)**
+- Port Security AI Pilot Deployment: Deployed MACS AI solution to Incheon International Passenger Terminal’s integrated control center, targeting complex threat detection (e.g., loitering, intrusion, object throwing, photo-taking).
+- Exceptional AI Model Accuracy: Achieved 99.74% F1-score for core scenarios like loitering and falling; verified by KTL software testing and exceeded performance goals for event complexity and processing efficiency.
+- High-Efficiency, Low-Cost Architecture: Delivered 200% improvement in cost-efficiency (50 channels per GPU server), integrated with existing VMS via RTSP relay servers, and fine-tuned VLM-based prompt engineering with custom-built datasets.
 
-## Patents & Certifications
-- **KISA AI Security Certification**
-- **Pending AI System Patents (1, 2, 3)**
+### **LG U+ AI Solutions(2024)**
+- Fire Safety & Behavior Anomaly Detection: Conducted PoC in a factory setting with over 600 CCTV channels, validating multi-modal AI for detecting smoke, flame, and falls with dramatically reduced false alarms compared to legacy CNN-based systems.
+- Prompt-Based Event Recognition: Verified the capability to define and detect custom industrial safety events using text prompts (e.g., “The man is falling,” “Water is gushing out”) including complex behaviors like high-place access and robot operation.
+- Enterprise-Level AI Integration: Successfully integrated AI servers into LG U+’s industrial surveillance infrastructure, achieving F1-score of 96 vs. 38 (legacy), and demonstrated real-time monitoring stability under multi-channel RTSP relay and 10Gbps backbone.
+
+## **Training & Education Initiatives**
+
+### **Korean Air Force AI Training Program**
+  - Delivered a 3-day intensive training program covering core topics in AI, deep learning, and multi-modal systems tailored for the Republic of Korea Air Force (ROKAF).
+  - Designed and led hands-on sessions on computer vision, NLP, and vision-language models, including CLIP-based multi-modal AI implementation and text classification using deep learning frameworks.
+  - Developed curriculum material covering Transformer architecture, embedding techniques, and fusion strategies (early, joint, late) for multi-modal learning to enhance military situational awareness capabilities.
+
+## Certifications
+
+### **KISA AI Security Certification(2024)**
+  - Product Certified: MACS-K (V1.0.0~V2.2.0), developed by PIA Space Inc., officially certified by the Korea Internet & Security Agency (KISA) for intelligent CCTV performance.
+  - Certified Event Categories:
+    - Loitering: F1-score 96.0
+    - Intrusion: F1-score 95.3
+    - Falling: F1-score 98.0
+    - Arson (fire/smoke): F1-score 94.0
+    - Fighting: F1-score 90.0
+    - Abandonment (e.g., trash, baggage): F1-score 99.0
+  - Certification Period: Valid through 2027, verifying system stability across RGB/IR camera input, multiple time zones, and weather conditions under national test datasets
+
+## Patent
+### **System and Method for Monitoring at Least One Occupant Within a Vehicle Using a Plurality of Convolutional Neural Networks(2021)**
+[Google Patent](https://patents.google.com/patent/US20210086715A1/en)
+  - Inventor: Heesu Kim, et al.
+  - Application No.: US17/025,440 | Publication No.: US20210086715A1
+  - Filed: September 18, 2020 | Published: March 25, 2021
+  - Developed during my tenure at the University of Iowa, this invention leverages multiple deep learning modules—pose estimation, part affinity fields, and semantic segmentation—to assess seatbelt usage and posture inside vehicles, ensuring safety compliance through automated occupant monitoring.
 
 ## Publications
 - [**Kim, H.**, Kim, S.H., Jeon, M., Kim, J., Song, S. and Paik, K.J., "A study on path optimization method of an unmanned surface vehicle under environmental loads using genetic algorithm", Ocean Engineering, 2017](https://doi.org/10.1016/j.oceaneng.2017.07.040)
