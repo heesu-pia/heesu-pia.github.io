@@ -121,11 +121,11 @@ _2017-2018_
 - Designed training loop abstractions, auto-logging, checkpointing, scheduler integration.
 
 ## Research Projects
-- Driver Monitoring System: CNN-based seatbelt & posture classification in vehicle footage.
-- Surgical Skill Evaluation: RL reward-shaping system for virtual surgical tasks.
-- ROS-based Collision Avoidance: Real-time agent navigation in dynamic maritime settings.
-- Stereo Vision Object Detection: Faster R-CNN applied to USV maritime safety.
-- Genetic Path Optimization: Route planning for USV under environmental loads.
+- Driver Monitoring System(2021): CNN-based seatbelt & posture classification in vehicle footage.
+- Surgical Skill Evaluation(2021-2022): RL reward-shaping system for virtual surgical tasks.
+- ROS-based Collision Avoidance(2022): Real-time agent navigation in dynamic maritime settings.
+- Stereo Vision Object Detection(2018): Faster R-CNN applied to USV maritime safety.
+- Genetic Path Optimization(2017): Route planning for USV under environmental loads.
 
 
 ## Patent
