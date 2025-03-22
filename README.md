@@ -132,7 +132,8 @@ _2017-2018_
 ### **System and Method for Monitoring at Least One Occupant Within a Vehicle Using a Plurality of Convolutional Neural Networks(2021)**
 [US20210086715A1](https://patents.google.com/patent/US20210086715A1/en)
 - Inventor: Heesu Kim, et al.
-- Filed: Sep 2020 | Published: Mar 2021
+- Filed: Sep 2020
+- Published: Mar 2021
 - Deep learning-based monitoring system for seatbelt usage and posture via multi-CNN fusion (pose estimation, segmentation, affinity).
 
 ## Certifications
