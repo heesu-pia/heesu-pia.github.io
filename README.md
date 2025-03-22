@@ -1,6 +1,9 @@
 <img src="https://github.com/oneQuery/oneQuery.github.io/assets/24229051/59754b18-5a66-4ec7-b8c2-5f6166af9485" width="141" height="180">
 
 # Heesu Kim
+_AI Researcher | Deep Learning Architect | Multi-modal AI Specialist_  
+📍 Seoul, South Korea | ✉️ hs.kim@pia.space | [GitHub](https://github.com/heesu-pia/oneQuery.github.io/edit/dev/README.md) | [Scholar](https://scholar.google.com/citations?hl=en&user=foCKZlQAAAAJ)
+
 Heesu Kim is an AI Solution Architect and Technical Product Leader specializing in **multi-modal AI and real-world AI applications**. With a background in **autonomous maritime navigation** and **AI-powered video analytics**, he currently leads AI-driven **CCTV anomaly detection** solutions and multi-modal retrieval systems. His expertise spans **deep learning model development, AI system architecture, and business strategy**.
 
 ## Skills
