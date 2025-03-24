@@ -76,7 +76,7 @@ AI Researcher with 7+ years of experience in deep learning and real-world AI app
 ## Research Projects
 - ROS Collision Avoidance (2022.01-06, ~5 months): real-time ship RL planner.
 - Surgical RL (2021.08–2021.12, ~4 months): reward shaping for skill estimation.
-- Driver Monitoring (2019.12–2021.7, ~6 months): CNN + HPE for in-vehicle posture/safety.
+- Driver Monitoring (2019.12–2021.7, ~18 months): CNN + HPE for in-vehicle posture/safety.
 - USV Object Detection (2017.08-2018.07, ~11 months): Faster R-CNN.
 - Genetic Path Planning (2017.01-07, ~6 months): Navigation route optimization.
 
